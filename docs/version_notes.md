@@ -24,6 +24,7 @@ Tested environment: Python 3.12.7 and NumPy 2.5.3. Other versions in the declare
 range have not been checked in this release preparation.
 
 The manuscript is unpublished. Its title and author list are recorded in
-`CITATION.cff`; no journal assignment, repository URL, DOI or release date is
-claimed. The MIT licence covers this software package. It does not grant access
+`CITATION.cff`, which also identifies the public GitHub repository. No journal
+assignment, DOI or tagged release is claimed. The MIT licence covers this
+software package. It does not grant access
 to, or distribution rights for, institutional observations or event catalogues.

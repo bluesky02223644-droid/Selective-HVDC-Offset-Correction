@@ -1,7 +1,7 @@
 # Selective HVDC Offset Correction
 
 A selective workflow for HVDC-induced stable offsets in 1 Hz geomagnetic
-Z-component records. This local release candidate corresponds to manuscript
+Z-component records. This release candidate corresponds to manuscript
 workflow v2.1 and is distributed under the [MIT licence](LICENSE).
 
 **The synthetic demo checks API behaviour and configuration integrity. It does
@@ -59,7 +59,8 @@ does not redistribute or license these excluded data.
 The example is an API check rather than the original 384-injection experiment,
 the 192-injection low-amplitude extension or a real-record cohort reproduction.
 This folder is a publication copy and does not replace the active research
-workspace. It has not yet been uploaded to GitHub.
+workspace. The public repository is
+[Selective-HVDC-Offset-Correction](https://github.com/bluesky02223644-droid/Selective-HVDC-Offset-Correction).
 
 ## Citation
 
@@ -70,4 +71,4 @@ Huo, Q., Wang, X., Ma, X., Guo, Y., and Zhang, S.
 *Selective correction of HVDC-induced offsets in geomagnetic observations using
 paired-response evidence*. Unpublished manuscript.
 
-No publication DOI or remote repository URL has been assigned to this package.
+No publication or software-archive DOI has been assigned to this package.

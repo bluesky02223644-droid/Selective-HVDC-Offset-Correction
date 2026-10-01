@@ -1,5 +1,6 @@
 {
-  "package_status": "local release candidate; not uploaded",
+  "package_status": "GitHub release candidate",
+  "repository_url": "https://github.com/bluesky02223644-droid/Selective-HVDC-Offset-Correction",
   "package_version": "2.1.0-rc.1",
   "public_release_id": "v2.1-public-release",
   "manuscript_workflow_version": "v2.1",
@@ -62,7 +63,6 @@
     "synthetic_demo_runs": true,
     "cff_schema_1_2_0_valid": true,
     "active_sources_freeze_and_manuscript_unchanged": true,
-    "real_record_evaluations_performed": 0,
-    "github_upload_performed": false
+    "real_record_evaluations_performed": 0
   }
 }

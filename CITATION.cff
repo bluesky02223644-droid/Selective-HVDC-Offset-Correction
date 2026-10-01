@@ -5,6 +5,7 @@ type: software
 title: Selective HVDC Offset Correction
 version: 2.1.0-rc.1
 license: MIT
+repository-code: https://github.com/bluesky02223644-droid/Selective-HVDC-Offset-Correction
 authors:
   - family-names: Huo
     given-names: Qiaoling
