@@ -1,0 +1,41 @@
+{
+  "source_freeze_version": "v2.1-rc1",
+  "source_freeze_sha256": "2b91fdb0582ac0c8fabc5093581d55bf1533391709823db94ebf950223b13f1a",
+  "scientific_spec": {
+    "entry": "step_corrector_d1p1.py::correct_step_d1p1",
+    "candidate_audit": true,
+    "admission_revision": "constant-offset-dev01",
+    "endpoint_revision": "sample-state-dev03",
+    "on_endpoint_revision": "bounded-contraction-dev01",
+    "off_endpoint_revision": "supported-fallback-dev01",
+    "timing_revision": "tie-target-dev01",
+    "endpoint_fallback_revision": "missing-pair-dev02",
+    "policy": {
+      "policy_id": "v2.1-public-release",
+      "evidence_s": 30,
+      "min_peers": 1,
+      "consensus_span_s": 3,
+      "consensus_fraction": null,
+      "target_tolerance_s": 3,
+      "change_min_gain": 0.5,
+      "change_min_snr": 4.0,
+      "noise_floor_nt": 0.01,
+      "state_window_s": 20,
+      "min_plateau_s": 60,
+      "max_transient_s": 60,
+      "max_slope_nt_s": 0.02,
+      "max_drift_nt": 5.0,
+      "noise_ratio": 10.0,
+      "reversal_fraction": 0.25,
+      "max_join_nt": 1.0,
+      "max_residual_nt": 2.0,
+      "max_boundary_difference_nt": 0.5
+    },
+    "nonzero_radius_s": 0,
+    "line_veto_audit": false,
+    "on_background_node_guard": false,
+    "on_catalog_end_s": null,
+    "catalog_edge_fallback_ends": "actual original ON/OFF edge ends per target, no duration cap"
+  },
+  "public_release_id": "v2.1-public-release"
+}

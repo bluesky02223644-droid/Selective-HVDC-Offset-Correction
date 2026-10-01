@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data/
+raw_data/
+catalogues/
+internal/
+outputs/
+*.npy
+*.npz
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.log
