@@ -1,7 +1,10 @@
 # Version notes
 
-This release candidate corresponds to the manuscript v2.1 workflow. The package
-version is `2.1.0-rc.1`; the display and policy identifier is `v2.1-public-release`.
+This first public software release corresponds to the manuscript v2.1 workflow.
+The package version is `1.0.0`; the display and policy identifier is
+`v2.1-public-release`. Software versions are separate from manuscript workflow
+versions. This release retains the scientific implementation previously uploaded
+as package candidate `2.1.0-rc.1`.
 These identify the software package and do not introduce a new scientific method.
 
 The public copy has updated comments and docstrings, removed unused module-status
@@ -25,6 +28,6 @@ range have not been checked in this release preparation.
 
 The manuscript is unpublished. Its title and author list are recorded in
 `CITATION.cff`, which also identifies the public GitHub repository. No journal
-assignment, DOI or tagged release is claimed. The MIT licence covers this
+assignment or DOI is claimed. The GitHub release tag is `v1.0.0`. The MIT licence covers this
 software package. It does not grant access
 to, or distribution rights for, institutional observations or event catalogues.

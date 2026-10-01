@@ -3,7 +3,8 @@ message: >-
   Please cite this software and the accompanying manuscript when using the workflow.
 type: software
 title: Selective HVDC Offset Correction
-version: 2.1.0-rc.1
+version: 1.0.0
+date-released: "2026-10-01"
 license: MIT
 repository-code: https://github.com/bluesky02223644-droid/Selective-HVDC-Offset-Correction
 authors:

@@ -1,7 +1,7 @@
 # Selective HVDC Offset Correction
 
 A selective workflow for HVDC-induced stable offsets in 1 Hz geomagnetic
-Z-component records. This release candidate corresponds to manuscript
+Z-component records. Software release v1.0.0 corresponds to manuscript
 workflow v2.1 and is distributed under the [MIT licence](LICENSE).
 
 **The synthetic demo checks API behaviour and configuration integrity. It does
@@ -40,7 +40,8 @@ keeps candidate assessment separate from final observation writeback.
 
 ## Version and configuration
 
-`VERSION` gives the package version, `2.1.0-rc.1`.
+`VERSION` gives the software package version, `1.0.0`, independently of the
+manuscript workflow version v2.1.
 `configs/workflow_v2_1.json` specifies the unchanged scientific criteria and
 revision arguments under the public identifier `v2.1-public-release`.
 Catalogue edge ends must be supplied for each record; the demo supplies its
